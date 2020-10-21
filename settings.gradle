@@ -1,0 +1,5 @@
+rootProject.name = 'cloud-bus'
+
+include 'cloud-bus-server'
+include 'cloud-bus-client1'
+include 'cloud-bus-client2'
